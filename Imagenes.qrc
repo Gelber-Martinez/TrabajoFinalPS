@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/alfiler.png</file>
+        <file>imagenes/camioneta.png</file>
+        <file>imagenes/carrera.png</file>
+        <file>imagenes/correo.png</file>
+        <file>imagenes/dinero.png</file>
+        <file>imagenes/estrella.png</file>
+        <file>imagenes/llave-inteligente.png</file>
+        <file>imagenes/registro.png</file>
+        <file>imagenes/silla.png</file>
+        <file>imagenes/telefono.png</file>
+        <file>imagenes/usuario.png</file>
+        <file>imagenes/viaje.png</file>
+    </qresource>
+</RCC>
