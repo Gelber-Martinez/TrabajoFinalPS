@@ -2,6 +2,7 @@
 #include <math.h>
 #include "carrera.h"
 
+//prueba
 using namespace std;
 Carrera::Carrera(){
 
