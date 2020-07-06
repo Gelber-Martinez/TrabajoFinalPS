@@ -1,6 +1,5 @@
 #include <iostream>
 #include <math.h>
-
 #include "carrera.h"
 
 using namespace std;
