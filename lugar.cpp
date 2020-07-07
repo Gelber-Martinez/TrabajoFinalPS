@@ -2,6 +2,7 @@
 #include <math.h>
 #include <string>
 #include "lugar.h"
+//modificando
 using namespace std;
 Lugar::Lugar(){
 
