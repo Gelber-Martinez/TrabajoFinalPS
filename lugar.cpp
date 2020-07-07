@@ -2,6 +2,7 @@
 #include <math.h>
 #include <string>
 #include "lugar.h"
+//aca estuvo adriel,pa que kebe sepa si puedo o no modificar la wea
 using namespace std;
 Lugar::Lugar(){
 
