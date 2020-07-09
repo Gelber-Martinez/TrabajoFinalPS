@@ -21,6 +21,8 @@ SOURCES += \
     coche.cpp \
     conductor.cpp \
     crearcoche.cpp \
+    listapedidos.cpp \
+    listaregistros.cpp \
     lugar.cpp \
     main.cpp \
     mainwindow.cpp \
@@ -39,6 +41,8 @@ HEADERS += \
     coche.h \
     conductor.h \
     crearcoche.h \
+    listapedidos.h \
+    listaregistros.h \
     lugar.h \
     mainwindow.h \
     menucoche.h \
@@ -52,6 +56,8 @@ HEADERS += \
 
 FORMS += \
     crearcoche.ui \
+    listapedidos.ui \
+    listaregistros.ui \
     mainwindow.ui \
     menucoche.ui \
     menuusuario.ui \
