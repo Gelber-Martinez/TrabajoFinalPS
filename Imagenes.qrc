@@ -12,5 +12,6 @@
         <file>imagenes/telefono.png</file>
         <file>imagenes/usuario.png</file>
         <file>imagenes/viaje.png</file>
+        <file>imagenes/espalda.png</file>
     </qresource>
 </RCC>
