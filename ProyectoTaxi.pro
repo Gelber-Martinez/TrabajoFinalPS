@@ -16,11 +16,13 @@ DEFINES += QT_DEPRECATED_WARNINGS
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    aceptarcarrera.cpp \
     carrera.cpp \
     cliente.cpp \
     coche.cpp \
     conductor.cpp \
     crearcoche.cpp \
+    creartaxista.cpp \
     listapedidos.cpp \
     listaregistros.cpp \
     lugar.cpp \
@@ -29,6 +31,7 @@ SOURCES += \
     menucoche.cpp \
     menuusuario.cpp \
     pedirtaxi.cpp \
+    perdicarrera.cpp \
     perfilcoche.cpp \
     perfilconductor.cpp \
     perfilusuario.cpp \
@@ -36,11 +39,13 @@ SOURCES += \
     punto.cpp
 
 HEADERS += \
+    aceptarcarrera.h \
     carrera.h \
     cliente.h \
     coche.h \
     conductor.h \
     crearcoche.h \
+    creartaxista.h \
     listapedidos.h \
     listaregistros.h \
     lugar.h \
@@ -48,6 +53,7 @@ HEADERS += \
     menucoche.h \
     menuusuario.h \
     pedirtaxi.h \
+    perdicarrera.h \
     perfilcoche.h \
     perfilconductor.h \
     perfilusuario.h \
@@ -55,13 +61,16 @@ HEADERS += \
     punto.h
 
 FORMS += \
+    aceptarcarrera.ui \
     crearcoche.ui \
+    creartaxista.ui \
     listapedidos.ui \
     listaregistros.ui \
     mainwindow.ui \
     menucoche.ui \
     menuusuario.ui \
     pedirtaxi.ui \
+    perdicarrera.ui \
     perfilcoche.ui \
     perfilconductor.ui \
     perfilusuario.ui
