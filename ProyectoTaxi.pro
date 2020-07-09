@@ -26,6 +26,7 @@ SOURCES += \
     mainwindow.cpp \
     menucoche.cpp \
     menuusuario.cpp \
+    pedirtaxi.cpp \
     persona.cpp \
     punto.cpp
 
@@ -39,6 +40,7 @@ HEADERS += \
     mainwindow.h \
     menucoche.h \
     menuusuario.h \
+    pedirtaxi.h \
     persona.h \
     punto.h
 
@@ -46,7 +48,8 @@ FORMS += \
     crearcoche.ui \
     mainwindow.ui \
     menucoche.ui \
-    menuusuario.ui
+    menuusuario.ui \
+    pedirtaxi.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
