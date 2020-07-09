@@ -21,11 +21,17 @@ SOURCES += \
     coche.cpp \
     conductor.cpp \
     crearcoche.cpp \
+    listapedidos.cpp \
+    listaregistros.cpp \
     lugar.cpp \
     main.cpp \
     mainwindow.cpp \
     menucoche.cpp \
     menuusuario.cpp \
+    pedirtaxi.cpp \
+    perfilcoche.cpp \
+    perfilconductor.cpp \
+    perfilusuario.cpp \
     persona.cpp \
     punto.cpp
 
@@ -35,18 +41,30 @@ HEADERS += \
     coche.h \
     conductor.h \
     crearcoche.h \
+    listapedidos.h \
+    listaregistros.h \
     lugar.h \
     mainwindow.h \
     menucoche.h \
     menuusuario.h \
+    pedirtaxi.h \
+    perfilcoche.h \
+    perfilconductor.h \
+    perfilusuario.h \
     persona.h \
     punto.h
 
 FORMS += \
     crearcoche.ui \
+    listapedidos.ui \
+    listaregistros.ui \
     mainwindow.ui \
     menucoche.ui \
-    menuusuario.ui
+    menuusuario.ui \
+    pedirtaxi.ui \
+    perfilcoche.ui \
+    perfilconductor.ui \
+    perfilusuario.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
