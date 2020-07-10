@@ -1,7 +1,7 @@
 #include "menucoche.h"
 #include "ui_menucoche.h"
 #include "crearcoche.h"
-
+#include "menuusuario.h"
 Coche *cocheaux;
 MenuCoche::MenuCoche(QWidget *parent) :
     QWidget(parent),
@@ -27,3 +27,10 @@ void MenuCoche::on_pushButton_clicked()
 
 }
 
+
+void MenuCoche::on_pushButton_2_clicked()
+{
+    hide();
+    MenuUsuario* menu =new MenuUsuario;
+    menu->show();
+}
