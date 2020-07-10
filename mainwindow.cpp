@@ -1,7 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "perdicarrera.h"
-#include "aceptarcarrera.h"
+#include "loginpersonal.h"
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
@@ -19,7 +19,7 @@ MainWindow::~MainWindow()
 void MainWindow::on_pushButton_clicked()
 {
     hide();
-    aceptarcarrera* MenuTaxi = new aceptarcarrera;
+    loginPersonal* MenuTaxi = new loginPersonal;
     MenuTaxi->show();
 
 

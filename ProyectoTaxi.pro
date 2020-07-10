@@ -25,6 +25,7 @@ SOURCES += \
     creartaxista.cpp \
     listapedidos.cpp \
     listaregistros.cpp \
+    loginpersonal.cpp \
     lugar.cpp \
     main.cpp \
     mainwindow.cpp \
@@ -48,6 +49,7 @@ HEADERS += \
     creartaxista.h \
     listapedidos.h \
     listaregistros.h \
+    loginpersonal.h \
     lugar.h \
     mainwindow.h \
     menucoche.h \
@@ -66,6 +68,7 @@ FORMS += \
     creartaxista.ui \
     listapedidos.ui \
     listaregistros.ui \
+    loginpersonal.ui \
     mainwindow.ui \
     menucoche.ui \
     menuusuario.ui \
