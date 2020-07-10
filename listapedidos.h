@@ -15,6 +15,9 @@ public:
     explicit listaPedidos(QWidget *parent = nullptr);
     ~listaPedidos();
 
+private slots:
+    void on_pushButton_clicked();
+
 private:
     Ui::listaPedidos *ui;
 };

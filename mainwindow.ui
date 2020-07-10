@@ -88,8 +88,7 @@
          </font>
         </property>
         <property name="styleSheet">
-         <string notr="true">
-</string>
+         <string notr="true"/>
         </property>
         <property name="text">
          <string>Crear cuenta</string>
@@ -241,7 +240,7 @@
            <string notr="true"/>
           </property>
           <property name="text">
-           <string>Ingresar Usuario</string>
+           <string>Ingresar Taxi</string>
           </property>
          </widget>
         </item>

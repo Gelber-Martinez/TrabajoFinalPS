@@ -79,19 +79,6 @@
     <string>Pedidos Taxi</string>
    </property>
   </widget>
-  <widget class="QLabel" name="label_10">
-   <property name="geometry">
-    <rect>
-     <x>130</x>
-     <y>280</y>
-     <width>111</width>
-     <height>31</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Perfil&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-   </property>
-  </widget>
   <widget class="QPushButton" name="pushButton_3">
    <property name="geometry">
     <rect>
@@ -138,19 +125,47 @@
      <normaloff>:/imagenes/espalda.png</normaloff>:/imagenes/espalda.png</iconset>
    </property>
   </widget>
-  <widget class="QLabel" name="label_11">
+  <widget class="QPushButton" name="pushButton_10">
    <property name="geometry">
     <rect>
-     <x>130</x>
-     <y>170</y>
-     <width>141</width>
-     <height>31</height>
+     <x>120</x>
+     <y>270</y>
+     <width>131</width>
+     <height>51</height>
     </rect>
    </property>
+   <property name="styleSheet">
+    <string notr="true">background:none;border:0px;
+font-size:14pt;</string>
+   </property>
    <property name="text">
-    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Aceptar Carrera&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    <string>Perfil</string>
    </property>
   </widget>
+  <widget class="QPushButton" name="pushButton_11">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>160</y>
+     <width>151</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background:none;border:0px;
+font-size:14pt;</string>
+   </property>
+   <property name="text">
+    <string>Aceptar Carrera</string>
+   </property>
+  </widget>
+  <zorder>pushButton_10</zorder>
+  <zorder>label_2</zorder>
+  <zorder>pushButton_2</zorder>
+  <zorder>label</zorder>
+  <zorder>pushButton_3</zorder>
+  <zorder>pushButton_4</zorder>
+  <zorder>pushButton_11</zorder>
  </widget>
  <resources>
   <include location="Imagenes.qrc"/>

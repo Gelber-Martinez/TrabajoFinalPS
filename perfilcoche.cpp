@@ -1,6 +1,6 @@
 #include "perfilcoche.h"
 #include "ui_perfilcoche.h"
-
+#include "perfilconductor.h"
 perfilCoche::perfilCoche(QWidget *parent) :
     QWidget(parent),
     ui(new Ui::perfilCoche)
@@ -12,3 +12,11 @@ perfilCoche::~perfilCoche()
 {
     delete ui;
 }
+
+void perfilCoche::on_pushButton_clicked()
+{
+    hide();
+    perfilConductor* conductorPerfil = new perfilConductor;
+    conductorPerfil->show();
+}
+

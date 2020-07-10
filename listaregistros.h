@@ -15,6 +15,9 @@ public:
     explicit listaRegistros(QWidget *parent = nullptr);
     ~listaRegistros();
 
+private slots:
+    void on_pushButton_clicked();
+
 private:
     Ui::listaRegistros *ui;
 };

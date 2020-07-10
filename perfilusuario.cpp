@@ -1,6 +1,6 @@
 #include "perfilusuario.h"
 #include "ui_perfilusuario.h"
-
+#include "perdicarrera.h"
 perfilUsuario::perfilUsuario(QWidget *parent) :
     QWidget(parent),
     ui(new Ui::perfilUsuario)
@@ -11,4 +11,12 @@ perfilUsuario::perfilUsuario(QWidget *parent) :
 perfilUsuario::~perfilUsuario()
 {
     delete ui;
+}
+
+void perfilUsuario::on_pushButton_clicked()
+{
+    hide();
+    perdicarrera* menucoche = new perdicarrera;
+    menucoche->show();
+
 }

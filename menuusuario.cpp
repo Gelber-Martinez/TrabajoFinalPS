@@ -19,6 +19,4 @@ void MenuUsuario::on_pushButton_clicked()
     hide();
     MenuCoche* menucoche = new MenuCoche;
     menucoche->show();
-
-
 }

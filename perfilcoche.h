@@ -15,6 +15,9 @@ public:
     explicit perfilCoche(QWidget *parent = nullptr);
     ~perfilCoche();
 
+private slots:
+    void on_pushButton_clicked();
+
 private:
     Ui::perfilCoche *ui;
 };

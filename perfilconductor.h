@@ -15,6 +15,13 @@ public:
     explicit perfilConductor(QWidget *parent = nullptr);
     ~perfilConductor();
 
+private slots:
+    void on_pushButton_clicked();
+
+    void on_pushButton_5_clicked();
+
+    void on_pushButton_6_clicked();
+
 private:
     Ui::perfilConductor *ui;
 };

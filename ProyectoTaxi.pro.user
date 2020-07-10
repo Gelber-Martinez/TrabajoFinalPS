@@ -1,37 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<<<<<<< HEAD
-<!-- Written by QtCreator 4.12.3, 2020-07-09T10:10:15. -->
+<!-- Written by QtCreator 4.12.3, 2020-07-10T10:15:09. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{5634f1a5-66f2-4ed6-8af2-8ee7f91b9907}</value>
-=======
-<<<<<<< HEAD
-<!-- Written by QtCreator 4.12.3, 2020-07-09T10:31:41. -->
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<!-- Written by QtCreator 4.12.3, 2020-07-07T16:34:14. -->
-=======
-<!-- Written by QtCreator 4.12.3, 2020-07-09T09:19:02. -->
->>>>>>> 98ce1550bfc9fd10018ba38dcfddad602a358c70
-<qtcreator>
- <data>
-  <variable>EnvironmentId</variable>
-  <value type="QByteArray">{451b263a-50ff-46d3-bbee-387dd667751d}</value>
-=======
-<!-- Written by QtCreator 4.12.3, 2020-07-09T10:08:44. -->
-=======
-<!-- Written by QtCreator 4.12.3, 2020-07-09T10:06:43. -->
->>>>>>> 4733ff06d3a2b92e26a0ddb22f1dfe364d047b01
->>>>>>> a358ad37189c15be22a91819452a652f65fef9d5
-<qtcreator>
- <data>
-  <variable>EnvironmentId</variable>
-  <value type="QByteArray">{4bc3f4f8-5bd6-4eee-bdb1-d8e47f840f29}</value>
->>>>>>> 74860ffb500bd45d505d01f23bbe19336af22359
->>>>>>> b1802a013443813d35d42951f3ca92cc42061a4c
+  <value type="QByteArray">{6a70a8a0-caef-46ac-8425-ca7b008b2ab7}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -90,7 +63,7 @@
    <valuemap type="QVariantMap" key="ClangTools">
     <value type="bool" key="ClangTools.BuildBeforeAnalysis">true</value>
     <value type="QString" key="ClangTools.DiagnosticConfig">Builtin.DefaultTidyAndClazy</value>
-    <value type="int" key="ClangTools.ParallelJobs">2</value>
+    <value type="int" key="ClangTools.ParallelJobs">1</value>
     <valuelist type="QVariantList" key="ClangTools.SelectedDirs"/>
     <valuelist type="QVariantList" key="ClangTools.SelectedFiles"/>
     <valuelist type="QVariantList" key="ClangTools.SuppressedDiagnostics"/>
@@ -110,18 +83,8 @@
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
     <value type="bool">true</value>
     <value type="int" key="EnableQmlDebugging">0</value>
-<<<<<<< HEAD
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\VitaPet\pru\build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Debug</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">D:/VitaPet/pru/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Debug</value>
-=======
-<<<<<<< HEAD
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\LENOVO\Desktop\unsa 2020\PS\oficial_proyecto\build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Debug</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/LENOVO/Desktop/unsa 2020/PS/oficial_proyecto/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Debug</value>
-=======
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">E:\esta\build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Debug</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">E:/esta/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Debug</value>
->>>>>>> 74860ffb500bd45d505d01f23bbe19336af22359
->>>>>>> b1802a013443813d35d42951f3ca92cc42061a4c
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\DELL\Documents\build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/DELL/Documents/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -171,18 +134,8 @@
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
     <value type="bool">true</value>
     <value type="int" key="EnableQmlDebugging">2</value>
-<<<<<<< HEAD
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\VitaPet\pru\build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Release</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">D:/VitaPet/pru/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Release</value>
-=======
-<<<<<<< HEAD
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\LENOVO\Desktop\unsa 2020\PS\oficial_proyecto\build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Release</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/LENOVO/Desktop/unsa 2020/PS/oficial_proyecto/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Release</value>
-=======
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">E:\esta\build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Release</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">E:/esta/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Release</value>
->>>>>>> 74860ffb500bd45d505d01f23bbe19336af22359
->>>>>>> b1802a013443813d35d42951f3ca92cc42061a4c
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\DELL\Documents\build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/DELL/Documents/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -232,18 +185,8 @@
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
     <value type="bool">true</value>
     <value type="int" key="EnableQmlDebugging">0</value>
-<<<<<<< HEAD
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\VitaPet\pru\build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Profile</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">D:/VitaPet/pru/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Profile</value>
-=======
-<<<<<<< HEAD
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\LENOVO\Desktop\unsa 2020\PS\oficial_proyecto\build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Profile</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/LENOVO/Desktop/unsa 2020/PS/oficial_proyecto/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Profile</value>
-=======
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">E:\esta\build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Profile</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">E:/esta/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Profile</value>
->>>>>>> 74860ffb500bd45d505d01f23bbe19336af22359
->>>>>>> b1802a013443813d35d42951f3ca92cc42061a4c
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\DELL\Documents\build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/DELL/Documents/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Profile</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -365,18 +308,8 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-<<<<<<< HEAD
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/VitaPet/pru/TrabajoFinalPS/ProyectoTaxi.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/VitaPet/pru/TrabajoFinalPS/ProyectoTaxi.pro</value>
-=======
-<<<<<<< HEAD
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/LENOVO/Desktop/unsa 2020/PS/oficial_proyecto/TrabajoFinalPS/ProyectoTaxi.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/LENOVO/Desktop/unsa 2020/PS/oficial_proyecto/TrabajoFinalPS/ProyectoTaxi.pro</value>
-=======
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:E:/esta/TrabajoFinalPS/ProyectoTaxi.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">E:/esta/TrabajoFinalPS/ProyectoTaxi.pro</value>
->>>>>>> 74860ffb500bd45d505d01f23bbe19336af22359
->>>>>>> b1802a013443813d35d42951f3ca92cc42061a4c
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/DELL/Documents/TrabajoFinalPS/ProyectoTaxi.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/DELL/Documents/TrabajoFinalPS/ProyectoTaxi.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -387,15 +320,7 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-<<<<<<< HEAD
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/VitaPet/pru/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Debug</value>
-=======
-<<<<<<< HEAD
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/LENOVO/Desktop/unsa 2020/PS/oficial_proyecto/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Debug</value>
-=======
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">E:/esta/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Debug</value>
->>>>>>> 74860ffb500bd45d505d01f23bbe19336af22359
->>>>>>> b1802a013443813d35d42951f3ca92cc42061a4c
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/DELL/Documents/build-ProyectoTaxi-Desktop_Qt_5_15_0_MinGW_64_bit-Debug</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
