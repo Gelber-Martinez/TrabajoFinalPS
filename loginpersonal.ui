@@ -139,7 +139,7 @@
     <string>Pedidos Taxi</string>
    </property>
   </widget>
-  <widget class="QLineEdit" name="lineEdit_3">
+  <widget class="QLineEdit" name="clave">
    <property name="geometry">
     <rect>
      <x>420</x>
