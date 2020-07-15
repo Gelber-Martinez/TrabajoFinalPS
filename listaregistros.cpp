@@ -1,6 +1,6 @@
 #include "listaregistros.h"
 #include "ui_listaregistros.h"
-#include "aceptarcarrera.h"
+#include "perdicarrera.h"
 listaRegistros::listaRegistros(QWidget *parent) :
     QWidget(parent),
     ui(new Ui::listaRegistros)
@@ -16,6 +16,6 @@ listaRegistros::~listaRegistros()
 void listaRegistros::on_pushButton_clicked()
 {
     hide();
-    aceptarcarrera* MenuUsuario = new aceptarcarrera;
+    perdicarrera* MenuUsuario = new perdicarrera;
     MenuUsuario->show();
 }
