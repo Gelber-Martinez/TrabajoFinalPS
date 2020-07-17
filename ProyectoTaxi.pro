@@ -23,6 +23,7 @@ SOURCES += \
     conductor.cpp \
     crearcoche.cpp \
     creartaxista.cpp \
+    crearusuario.cpp \
     listapedidos.cpp \
     listaregistros.cpp \
     loginpersonal.cpp \
@@ -31,6 +32,7 @@ SOURCES += \
     mainwindow.cpp \
     menucoche.cpp \
     menuusuario.cpp \
+    opcioncrear.cpp \
     pedirtaxi.cpp \
     perdicarrera.cpp \
     perfilcoche.cpp \
@@ -47,6 +49,7 @@ HEADERS += \
     conductor.h \
     crearcoche.h \
     creartaxista.h \
+    crearusuario.h \
     listapedidos.h \
     listaregistros.h \
     loginpersonal.h \
@@ -54,6 +57,7 @@ HEADERS += \
     mainwindow.h \
     menucoche.h \
     menuusuario.h \
+    opcioncrear.h \
     pedirtaxi.h \
     perdicarrera.h \
     perfilcoche.h \
@@ -66,12 +70,14 @@ FORMS += \
     aceptarcarrera.ui \
     crearcoche.ui \
     creartaxista.ui \
+    crearusuario.ui \
     listapedidos.ui \
     listaregistros.ui \
     loginpersonal.ui \
     mainwindow.ui \
     menucoche.ui \
     menuusuario.ui \
+    opcioncrear.ui \
     pedirtaxi.ui \
     perdicarrera.ui \
     perfilcoche.ui \
