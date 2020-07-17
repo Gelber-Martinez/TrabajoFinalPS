@@ -24,7 +24,7 @@ void loginPersonal::on_pushButton_3_clicked()
         return;
     }
     QFile usuario;
-    usuario.setFileName("C:\\Users\\DELL\\Documents\\TrabajoFinalPS\\fonts\\usuarios.txt");
+    usuario.setFileName("E:\\esta\\TrabajoFinalPS\\fonts\\usuarios.txt");
         if (!usuario.open(QIODevice::ReadOnly | QIODevice::Text))
                 return;
     QTextStream in(&usuario);
